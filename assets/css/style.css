@@ -362,8 +362,8 @@ header .navbar ul li a:hover {
 }
 .about .row .image img {
   margin: 4rem;
-  width: 30rem;
-  height: auto;
+  width: 50rem;
+  height: 40rem;
   border-radius: 5%;
   transition: 0.3s;
   cursor: pointer;
@@ -582,7 +582,7 @@ header .navbar ul li a:hover {
 }
 .education .box-container .box:hover {
   transform: scale(1.03);
-  box-shadow: 1rem 0.5rem 1.2rem rgba(0, 0, 0, 0.3);
+  box-shadow: 1rem 0.5rem 1.2rem rgba(118, 5, 5, 0.3);
 }
 .education .box-container .box .image {
   flex: 1 1 20rem;
@@ -631,11 +631,11 @@ header .navbar ul li a:hover {
     width: 100%;
   }
   .education .box-container .box .image {
-    width: 100%;
+    width: 98%;
     height: 25rem;
   }
   .education .box-container .box img {
-    width: 100%;
+    width: 50%;
   }
   .education .box-container .box .content {
     position: relative;
